@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".033" x2="1.045" y1="1.05" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fbda32"/>
+            <stop offset="1" stop-color="#ff5656" stop-opacity=".502"/>
+        </linearGradient>
+        <style>
+            .cls-3{fill:#fff}.cls-4{fill:#d1d1d1}.cls-5{fill:none;stroke:#d1d1d1;stroke-linecap:round}
+        </style>
+    </defs>
+    <g id="Group_19" transform="translate(-84 -20)">
+        <circle id="Ellipse_5" cx="42" cy="42" r="42" fill="url(#linear-gradient)" transform="translate(84 20)"/>
+        <g id="Group_8" transform="translate(-1)">
+            <rect id="Rectangle_27" width="38" height="45" fill="#e6e6e6" rx="4" transform="translate(109 40)"/>
+            <g id="Group_7">
+                <rect id="Rectangle_28" width="25" height="31" class="cls-3" rx="4" transform="translate(101 47)"/>
+                <rect id="Rectangle_29" width="25" height="14" class="cls-3" rx="4" transform="translate(129 64)"/>
+            </g>
+            <circle id="Ellipse_12" cx="1.5" cy="1.5" r="1.5" class="cls-4" transform="translate(104 50)"/>
+            <circle id="Ellipse_14" cx="1.5" cy="1.5" r="1.5" class="cls-4" transform="translate(112 43)"/>
+            <circle id="Ellipse_13" cx="1.5" cy="1.5" r="1.5" class="cls-4" transform="translate(132 67)"/>
+            <path id="Path_23" d="M144.372 70.948h6.418" class="cls-5"/>
+            <path id="Path_24" d="M144.372 70.948h6.418" class="cls-5" transform="translate(0 2)"/>
+            <path id="Path_25" d="M144.372 70.948h6.418" class="cls-5" transform="translate(0 4)"/>
+        </g>
+    </g>
+</svg>

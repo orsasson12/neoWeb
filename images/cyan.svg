@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84">
+    <defs>
+        <linearGradient id="linear-gradient" x1="-.332" x2="1.045" y1="1.468" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#21ff5d"/>
+            <stop offset="1" stop-color="#56cbff" stop-opacity=".502"/>
+        </linearGradient>
+        <style>
+            .cls-2{fill:#fff}.cls-3{fill:#e6e6e6}
+        </style>
+    </defs>
+    <g id="Group_17" transform="translate(-84 -20)">
+        <path id="Path_29" fill="url(#linear-gradient)" d="M42 0A42 42 0 1 1 0 42 42 42 0 0 1 42 0z" transform="translate(84 20)"/>
+        <g id="Group_10" transform="translate(-962 -1278.068)">
+            <path id="Path_30" d="M1 0h26a1 1 0 0 1 1 1l-1.508 8c0 .552.1 1-.453 1H1a1 1 0 0 1-1-1V1a1 1 0 0 1 1-1z" class="cls-2" transform="translate(1072 1324)"/>
+            <rect id="Rectangle_31" width="10" height="17" class="cls-2" rx="1" transform="translate(1072 1337)"/>
+            <rect id="Rectangle_32" width="10" height="2" class="cls-2" rx="1" transform="translate(1084 1337)"/>
+            <rect id="Rectangle_33" width="10" height="2" class="cls-2" rx="1" transform="translate(1084 1340)"/>
+            <rect id="Rectangle_34" width="10" height="2" class="cls-2" rx="1" transform="translate(1084 1343)"/>
+            <rect id="Rectangle_35" width="7" height="2" class="cls-2" rx="1" transform="translate(1084 1346)"/>
+            <rect id="Rectangle_36" width="7" height="2" class="cls-2" rx="1" transform="translate(1084 1349)"/>
+            <rect id="Rectangle_37" width="5" height="2" class="cls-2" rx="1" transform="translate(1084 1352)"/>
+            <g id="Group_10-2" transform="rotate(20 1076.475 1386.797)">
+                <ellipse id="Ellipse_15" cx="3" cy="17.5" class="cls-3" rx="3" ry="17.5" transform="translate(1074 1316)"/>
+                <path id="Path_29-2" d="M1075.26 1348.9s-4.716 3.1-1.787 5.639 3.376 4.793 3.376 4.793 5.312-5.583 1.042-10.432c-.286-.324-2.631 0-2.631 0z" class="cls-3" transform="translate(.449 -1.152)"/>
+            </g>
+            <circle id="Ellipse_16" cx="1" cy="1" r="1" class="cls-3" transform="translate(1073 1325)"/>
+        </g>
+    </g>
+</svg>

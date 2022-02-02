@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".033" x2="1.738" y1="1.05" y2="-.396" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#3253fb"/>
+            <stop offset="1" stop-color="#ff56d8" stop-opacity=".502"/>
+        </linearGradient>
+        <style>
+            .cls-2{fill:#e6e6e6}
+        </style>
+    </defs>
+    <g id="Group_21" transform="translate(-84 -20)">
+        <circle id="Ellipse_3" cx="42" cy="42" r="42" fill="url(#linear-gradient)" transform="translate(84 20)"/>
+        <g id="Group_6" transform="translate(0 3.828)">
+            <rect id="Rectangle_23" width="16" height="14" class="cls-2" rx="4" transform="translate(108 40.172)"/>
+            <rect id="Rectangle_24" width="16" height="14" class="cls-2" rx="4" transform="translate(101 63.172)"/>
+            <rect id="Rectangle_25" width="16" height="14" class="cls-2" rx="4" transform="translate(128 63.172)"/>
+            <rect id="Rectangle_26" width="16" height="14" class="cls-2" rx="4" transform="translate(135 40.172)"/>
+        </g>
+    </g>
+</svg>

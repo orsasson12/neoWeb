@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145" height="45" viewBox="0 0 145 45">
+    <g fill="none" stroke="#fff">
+        <rect width="145" height="45" stroke="none" rx="22.5"/>
+        <rect width="144" height="44" x=".5" y=".5" rx="22"/>
+    </g>
+    <g fill="#fff">
+        <text font-family="HindMadurai-Medium, Hind Madurai" font-size="15px" font-weight="500" transform="translate(10) translate(47 27)">
+            <tspan x="0" y="0">Resume</tspan>
+        </text>
+        <path d="M5.229 0h1.937a.58.58 0 0 1 .581.581v4.067H9.87a.483.483 0 0 1 .341.826L6.529 9.158a.469.469 0 0 1-.661 0L2.181 5.474a.483.483 0 0 1 .341-.826h2.126V.581A.58.58 0 0 1 5.229 0zm7.166 9.1v2.711a.58.58 0 0 1-.581.581H.581A.58.58 0 0 1 0 11.814V9.1a.58.58 0 0 1 .581-.581h3.551l1.187 1.189a1.241 1.241 0 0 0 1.758 0l1.185-1.187h3.551a.58.58 0 0 1 .582.579zm-3 2.13a.484.484 0 1 0-.484.484.486.486 0 0 0 .482-.481zm1.549 0a.484.484 0 1 0-.484.484.486.486 0 0 0 .482-.481z" transform="translate(10) translate(27 16)"/>
+    </g>
+</svg>
